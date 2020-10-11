@@ -1,0 +1,22 @@
+[
+  {
+    "id": "3671edcd-5bb5-4c27-83c4-28cda6e774dc",
+    "text": "Very Inaccurate"
+  },
+  {
+    "id": "607f72cf-babc-4b5a-8269-e2f7bb226bbb",
+    "text": "Moderately Inaccurate"
+  },
+  {
+    "id": "ff247252-4b65-417a-aa74-3e8f9003c3ab",
+    "text": "Neither Accurate Nor Inaccurate"
+  },
+  {
+    "id": "e4b44d26-8bfd-4118-b182-9120594324f1",
+    "text": "Moderately Accurate"
+  },
+  {
+    "id": "f2570b61-0d4b-4e2f-9f51-fc01f41a1990",
+    "text": "Very Accurate"
+  }
+]
