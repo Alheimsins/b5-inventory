@@ -1,8 +1,11 @@
 {
-  "name": "b5-inventory",
+  "name": "@alheimsins/b5-inventory",
   "version": "1.0.0",
   "description": "Big five inventory for the Alheimsins modules",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "standard && ava -v",
     "watch:test": "ava -w -v",
