@@ -1,0 +1,29 @@
+{
+  "name": "b5-inventory",
+  "version": "1.0.0",
+  "description": "Big five inventory for the Alheimsins modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alheimsins/b5-inventory.git"
+  },
+  "keywords": [],
+  "author": "Geir Gåsodden <geir.gasodden@pythonia.no> (https://github.com/zrrrzzt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alheimsins/b5-inventory/issues"
+  },
+  "homepage": "https://github.com/Alheimsins/b5-inventory#readme",
+  "engines": {
+    "node": ">=12.19.0"
+  },
+  "devDependencies": {
+    "ava": "3.13.0",
+    "coveralls": "3.1.0",
+    "nyc": "15.1.0",
+    "standard": "14.3.4"
+  }
+}
